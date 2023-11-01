@@ -2,4 +2,5 @@
 
 <ul>
     <li>Step 1</li>
+    <li>Step 2</li>
 </ul>
