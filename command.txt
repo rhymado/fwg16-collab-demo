@@ -1,0 +1,7 @@
+git pull nama_remote nama_branch
+
+git branch nama_branch
+
+git checkout nama_branch
+
+git merge nama_branch_asal_merge
