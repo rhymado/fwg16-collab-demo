@@ -5,3 +5,5 @@ git branch nama_branch
 git checkout nama_branch
 
 git merge nama_branch_asal_merge
+
+finish
