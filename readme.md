@@ -7,4 +7,5 @@
     <li>Step 4</li>
     <li>Step 5</li>
     <li>Step 6</li>
+    <li>Step 7</li>
 </ul>
